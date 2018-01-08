@@ -65,7 +65,7 @@ class Bank
       }
       else
       {
-        $this->table[3]->flip;
+        $this->table[3]->flip();
       }
     }
     else

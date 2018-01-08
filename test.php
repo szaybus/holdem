@@ -17,5 +17,7 @@ $p2->flipCards();
 $p2->displayHand();
 echo '<br>Bank:';
 $bank->flipTable();
+$bank->flipTable();
+$bank->flipTable();
 $bank->showTable();
 ?>
