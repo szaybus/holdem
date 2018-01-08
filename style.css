@@ -1,0 +1,147 @@
+body
+{
+  background-image: url(tekstura.jpg);
+  background-repeat:repeat;
+  font-family: 'Open Sans','Roboto' sans-serif;
+}
+.container
+{
+  background-color: #27ae60;
+  border: 10px solid #004D40;
+  width: 1000px;
+  height: 500px;
+  text-align: center;
+  margin: auto;
+  margin-top: 250px;
+  border-radius: 500px;
+  position: relative;
+  z-index: 1;
+}
+.gracz
+{
+  width: 300px;
+  float: right;
+  margin-top: 12%;
+  margin-right: -150px;
+  font-weight: 900;
+  font-size: 20px;
+}
+.komputer
+{
+  width: 300px;
+  float: left;
+  margin-top: 12%;
+  margin-left: -150px;
+  font-weight: 900;
+  font-size: 20px;
+}
+.stawka
+{
+  width: 300px;
+  height: 105 px;
+  font-weight: 900;
+  font-size: 20px;
+  margin: 0 auto;
+  margin-top: 360px;
+}
+.avatar
+{
+  margin:0 auto;
+  margin-top: -75px;
+  width: 150px;
+  height: 150px;
+}
+.list-group-item
+{
+  border: 1px solid #95a5a6;
+}
+.karty
+{
+  width: 50px;
+  height: 75px;
+  position: absolute;
+  background: #27ae60;
+  border: 2px solid #fff;
+  z-index: 3;
+  text-align: center;
+  margin-left: 260px;
+  margin-top: 20%;
+}
+.karty2
+{
+  width: 50px;
+  height: 75px;
+  position: absolute;
+  background: #27ae60;
+  border: 2px solid #fff;
+  z-index: 2;
+  text-align: center;
+  margin-left: 360px;
+  margin-top: 20%;
+}
+.karty3
+{
+  width: 50px;
+  height: 75px;
+  position: absolute;
+  background: #27ae60;
+  border: 2px solid #fff;
+  z-index: 2;
+  text-align: center;
+  margin-left: 460px;
+  margin-top: 20%;
+}
+.karty4
+{
+  width: 50px;
+  height: 75px;
+  position: absolute;
+  background: #27ae60;
+  border: 2px solid #fff;
+  z-index: 2;
+  text-align: center;
+  margin-left: 560px;
+  margin-top: 20%;
+}
+.karty5
+{
+  width: 50px;
+  height: 75px;
+  position: absolute;
+  background: #27ae60;
+  border: 2px solid #fff;
+  z-index: 2;
+  text-align: center;
+  margin-left: 660px;
+  margin-top: 20%;
+}
+.tekst
+{
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  background: #27ae60;
+  z-index: 2;
+  margin-left: 270px;
+  margin-top: -46%;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
+.tekst2
+{
+  width: 400px;
+  height: 100px;
+  position: absolute;
+  background: #27ae60;
+  z-index: 2;
+  margin-left: 270px;
+  margin-top: -22%;
+  color: black;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 900;
+  text-shadow: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+}
